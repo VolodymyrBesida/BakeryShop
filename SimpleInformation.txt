@@ -1,0 +1,4 @@
+At this repository you can see my practice in WEB with .Net Core and Cognito service.
+One of the unique parts at this project is that the project will be create at the nearest future. 
+That's kinda chalange to make a product. 
+So, let it be
